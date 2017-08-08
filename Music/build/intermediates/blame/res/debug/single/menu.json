@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\menu\\navigation_menu.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\src\\main\\res\\menu\\navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\menu\\menu_search_music.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\src\\main\\res\\menu\\menu_search_music.xml"
+    }
+]

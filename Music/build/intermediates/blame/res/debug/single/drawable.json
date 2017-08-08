@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_bar_volume_style.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\src\\main\\res\\drawable\\seek_bar_volume_style.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_play_page_default_bg3.png",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\src\\main\\res\\drawable\\ic_play_page_default_bg3.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\play_page_cover_border_shape.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\src\\main\\res\\drawable\\play_page_cover_border_shape.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar_style.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\src\\main\\res\\drawable\\progress_bar_style.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\play_btn_loop_selector.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\src\\main\\res\\drawable\\play_btn_loop_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\play_btn_prev_selector.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\src\\main\\res\\drawable\\play_btn_prev_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\play_page_back_selector.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\src\\main\\res\\drawable\\play_page_back_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\play_mode_level_list.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\src\\main\\res\\drawable\\play_mode_level_list.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\play_bar_bg_selector.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\src\\main\\res\\drawable\\play_bar_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\play_btn_shuffle_selector.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\src\\main\\res\\drawable\\play_btn_shuffle_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\play_btn_one_selector.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\src\\main\\res\\drawable\\play_btn_one_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\music_tab_bar_text_color_selector.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\src\\main\\res\\drawable\\music_tab_bar_text_color_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\play_bar_btn_play_pause_selector.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\src\\main\\res\\drawable\\play_bar_btn_play_pause_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_header_bg1.jpg",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\src\\main\\res\\drawable\\navigation_header_bg1.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\play_btn_play_pause_selector.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\src\\main\\res\\drawable\\play_btn_play_pause_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\fab_background.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\drawable\\fab_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\play_btn_play_selector.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\src\\main\\res\\drawable\\play_btn_play_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\common_bg_selector.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\src\\main\\res\\drawable\\common_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_vp_bg.png",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\src\\main\\res\\drawable\\ic_vp_bg.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar_drawable.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\src\\main\\res\\drawable\\progress_bar_drawable.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\snackbar_background.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\drawable\\snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\play_btn_pause_selector.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\src\\main\\res\\drawable\\play_btn_pause_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_bar_progress_style.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\src\\main\\res\\drawable\\seek_bar_progress_style.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_header_bg.jpg",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\src\\main\\res\\drawable\\navigation_header_bg.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\main_bg.jpg",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\src\\main\\res\\drawable\\main_bg.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\play_btn_next_selector.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\src\\main\\res\\drawable\\play_btn_next_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\play_page_cover_top_line_shape.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\src\\main\\res\\drawable\\play_page_cover_top_line_shape.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\AndroidStudioProjects\\OnlineMusicPlayer\\Music\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    }
+]
